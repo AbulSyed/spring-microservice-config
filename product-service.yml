@@ -1,5 +1,5 @@
 api:
-  url: http://localhost:3000
+  url: http://localhost:3001
 
 # @RefreshScope was not updating config as was
 # missing spring.cloud.config.name=ApplicationName
